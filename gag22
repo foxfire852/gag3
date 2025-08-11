@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(script.lua, true))()
+loadstring(game:HttpGet(script.lua.lua, true))()
